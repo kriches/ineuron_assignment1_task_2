@@ -1,1 +1,2 @@
-merge some changes in the source code. 
+merge some changes in the source code.
+Add some new code to the source code. 
